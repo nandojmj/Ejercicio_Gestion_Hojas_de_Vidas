@@ -1,4 +1,4 @@
-**Almacenamiento de Hojas de Vida**
+##Almacenamiento de Hojas de Vida**
 
 Este programa en C++ permite gestionar el almacenamiento de hojas de vida de empleados y la autenticación de usuarios. A continuación se presenta una descripción general del programa:
 
